@@ -6,7 +6,7 @@
 ## 写代码快捷键相关
 1. 前端开发人员的码字利器[前端开发必备！Emmet使用手册](https://www.w3cplus.com/tools/emmet-cheat-sheet.html)
 ## 在线编辑器
-1. 在线编辑预览html,js,css-jsbin[http://jsbin.com/?html,output]
+1. 在线编辑预览html,js,css-jsbin[jsbin](http://jsbin.com/?html,output)
 2. [饥人谷的在线编辑网站](http://js.jirengu.com/?html,output)，因为是国内的，访问速度会有些优势
 3. [CodePen](https://codepen.io/),不止能在线编辑自己的代码，还有好多世界各地的优秀代码示例，可以进行搜索学习
 ## 权威百科
