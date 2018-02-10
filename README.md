@@ -3,3 +3,5 @@
 ## 命令行相关
 1.[插叙linux命令及相关参数](https://explainshell.com/explain)<br>
 2.[命令行常见用法](https://github.com/tldr-pages/tldr#tldr)
+## 写代码快捷键相关
+1. 前端开发人员的码字利器[前端开发必备！Emmet使用手册](https://www.w3cplus.com/tools/emmet-cheat-sheet.html)
