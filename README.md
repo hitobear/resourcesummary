@@ -11,3 +11,8 @@
 3. [CodePen](https://codepen.io/),不止能在线编辑自己的代码，还有好多世界各地的优秀代码示例，可以进行搜索学习
 ## 权威百科
 1. 前端最全权威字典-[MDN](https://developer.mozilla.org/zh-CN/)
+## CSS相关
+1. [张鑫旭的博客](http://www.zhangxinxu.com/wordpress/category/css/)
+2. [Magic of CSS](http://adamschwartz.co/magic-of-css/)
+3. 酷炫的CSS效果-[CSS-Tricks](https://css-tricks.com/snippets/css/)
+4. CSS效果- [Codrops](https://tympanus.net/codrops/)
