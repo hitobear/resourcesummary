@@ -16,3 +16,6 @@
 2. [Magic of CSS](http://adamschwartz.co/magic-of-css/)
 3. 酷炫的CSS效果-[CSS-Tricks](https://css-tricks.com/snippets/css/)
 4. CSS效果- [Codrops](https://tympanus.net/codrops/)
+
+### React相关
+[《React 学习之道》The Road to learn React (简体中文版)](https://juejin.im/post/5a69efda6fb9a01cb316617d)
