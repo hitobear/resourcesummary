@@ -22,3 +22,15 @@
 
 ### React相关
 [《React 学习之道》The Road to learn React (简体中文版)](https://juejin.im/post/5a69efda6fb9a01cb316617d)
+
+## 工具网站
+
+1. [can i use](https://caniuse.com/),前端必备，，用来记录显示标准规范和桌面以及手机浏览器的兼容性
+
+## 壁纸资源
+
+1. [WallHeaven](https://alpha.wallhaven.cc/)
+
+## 技术社区
+
+1. [v2ex](https://www.v2ex.com/)
