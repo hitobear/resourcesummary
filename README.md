@@ -3,6 +3,12 @@
 ## 扩展
 
 1. [酷壳](https://coolshell.cn/featured)
+2. [Matrix](http://www.matrix67.com/blog)
+3. [Reddit](https://www.reddit.com/)
+
+## JS博客
+
+1. [阮一峰的博客](http://www.ruanyifeng.com/blog)
 ## 命令行相关
 1. [explainshell](https://explainshell.com/explain)-查询linux命令及相关参数
 2. [命令行常见用法工具tldr](https://github.com/tldr-pages/tldr#tldr),可以通过npm安装
