@@ -40,3 +40,11 @@
 ## 技术社区
 
 1. [v2ex](https://www.v2ex.com/)
+
+## React相关
+
+1. [React高阶组件(HOC)模型理论与实践](https://segmentfault.com/a/1190000008112017#articleHeader4)
+
+## Mobx相关
+
+1. [用故事解读Mobx源码](https://segmentfault.com/a/1190000013682735)
