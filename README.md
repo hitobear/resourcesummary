@@ -52,3 +52,4 @@
 3. [Mobx源码解读-基本概念](https://zhuanlan.zhihu.com/p/31704920)
 4. [Mobx源码解读司徒正美](https://www.cnblogs.com/rubylouvre/p/6058575.html)
 5. [抱歉，学会Proxy真的可以为所欲为](https://zhuanlan.zhihu.com/p/35080324)
+6. [Mobx入坑指南](https://brooch.me/2016/12/16/MobX-simple-entry-4/)
