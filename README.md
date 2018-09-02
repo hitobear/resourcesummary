@@ -48,3 +48,7 @@
 ## Mobx相关
 
 1. [用故事解读Mobx源码](https://segmentfault.com/a/1190000013682735)
+2. [Mobx源码-github](https://github.com/mobxjs/mobx/blob/4.1.1/src/api/observable.ts#L145)
+3. [Mobx源码解读-基本概念](https://zhuanlan.zhihu.com/p/31704920)
+4. [Mobx源码解读司徒正美](https://www.cnblogs.com/rubylouvre/p/6058575.html)
+5. [抱歉，学会Proxy真的可以为所欲为](https://zhuanlan.zhihu.com/p/35080324)
