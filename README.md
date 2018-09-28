@@ -53,3 +53,8 @@
 4. [Mobx源码解读司徒正美](https://www.cnblogs.com/rubylouvre/p/6058575.html)
 5. [抱歉，学会Proxy真的可以为所欲为](https://zhuanlan.zhihu.com/p/35080324)
 6. [Mobx入坑指南](https://brooch.me/2016/12/16/MobX-simple-entry-4/)
+
+## 异步
+
+1. [30分钟，让你彻底明白Promise原理](https://www.jianshu.com/p/f77d8c61c69a)
+2. [Promise实现原理（附源码）](https://www.jianshu.com/p/43de678e918a)
