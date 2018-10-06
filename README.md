@@ -54,6 +54,11 @@
 5. [抱歉，学会Proxy真的可以为所欲为](https://zhuanlan.zhihu.com/p/35080324)
 6. [Mobx入坑指南](https://brooch.me/2016/12/16/MobX-simple-entry-4/)
 
+## redux
+
+1.[你可能不需要redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+2. [一个完整的react+redux项目的个人总结](https://github.com/bailicangdu/react-pxq)
+
 ## 异步
 
 1. [30分钟，让你彻底明白Promise原理](https://www.jianshu.com/p/f77d8c61c69a)
